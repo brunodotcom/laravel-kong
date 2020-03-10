@@ -1,7 +1,7 @@
 {
     "name": "douglasdc3/kong",
     "description": "A Kong API Manager Admin client. Includes Laravel integration.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "keywords": [
         "laravel",
         "kong",
@@ -28,10 +28,10 @@
         ]
     },
     "require": {
-        "php": "^7.0",
+        "php": "^7.2",
         "guzzlehttp/guzzle": "^6.0",
-        "illuminate/contracts": "^5.6",
-        "illuminate/support": "^5.6"
+        "illuminate/contracts": "^6.18.1",
+        "illuminate/support": "^6.18.1"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
